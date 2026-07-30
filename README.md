@@ -1,4 +1,4 @@
-# ¡Hola! Soy Leandro Emiliano Miranda Román 👋
+# Leandro Emiliano Miranda Román
 
 ### 🎓 Estudiante de Ingeniería en Inteligencia Artificial
 
