@@ -23,7 +23,8 @@ Actualmente, continúo fortaleciendo mis conocimientos en ingeniería de datos, 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 **Bases de Datos:**  
-![Databases](https://img.shields.io/badge/Bases_de_Datos-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 **Cloud & DevOps:**  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -58,4 +59,3 @@ Actualmente, continúo fortaleciendo mis conocimientos en ingeniería de datos, 
 
 * **LinkedIn:** [leandro-miranda-roman](https://www.linkedin.com/in/leandro-miranda-roman-3a2610325/)
 * **Correo:** leandroemilianomirandaroman@gmail.com
-* **Ubicación:** Santa Cruz, Bolivia 📍
