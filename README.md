@@ -35,30 +35,27 @@ Actualmente, continúo fortaleciendo mis conocimientos en ingeniería de datos, 
 
 ### 💻 Proyectos Destacados
 
-* **[Nombre del Proyecto 1](https://github.com/Leandro0210/repo-1)**  
+* **[Predicción de Titularidad en Jugadores Ofensivos](https://github.com/Leandro0210/ML_futbol)**  
   *Descripción:* Breve resumen de lo que hace el proyecto y el problema que resuelve.  
-  *Tech Stack:* `Python`, `PyTorch`, `Docker`  
-  * [Ver Repositorio](#)
+  *Tech Stack:* `Python`, `Pandas`  
+  * [Ver Repositorio](https://github.com/Leandro0210/ML_futbol)
 
-* **[Nombre del Proyecto 2](https://github.com/Leandro0210/repo-2)**  
+* **[Predicción de ventas en una Cafetería](https://github.com/Leandro0210/matcha-cloud-api)**  
   *Descripción:* Resumen de otro proyecto clave que demuestre tus habilidades.  
-  *Tech Stack:* `Java`, `scikit-learn`, `Pandas`  
-  * [Ver Repositorio](#)
+  *Tech Stack:* `Docker`, `scikit-learn`, `Pandas`, `AWS`, `Kubernetes`  
+  * [Ver Repositorio](https://github.com/Leandro0210/matcha-cloud-api)
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
+### 🌐 Idiomas
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandro0210&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro0210&layout=compact&theme=radial&hide_border=true" alt="Lenguajes más usados" />
-</p>
+* 🇪🇸 **Español:** Nativo
+* 🇬🇧 **Inglés:** B2 (Intermedio Alto)
 
 ---
 
-### 📬 ¿Hablamos?
+### 📬 Contáctame
 
-* **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/tu-perfil)
-* **Correo:** tu-email@ejemplo.com
+* **LinkedIn:** [leandro-miranda-roman](https://www.linkedin.com/in/leandro-miranda-roman-3a2610325/)
+* **Correo:** leandroemilianomirandaroman@gmail.com
 * **Ubicación:** Santa Cruz, Bolivia 📍
