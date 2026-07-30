@@ -1,4 +1,4 @@
-# Leandro Emiliano Miranda Román
+# Leandro Emiliano Miranda Roman
 
 ### 🎓 Estudiante de Ingeniería en Inteligencia Artificial
 
